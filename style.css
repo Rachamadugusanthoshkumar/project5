@@ -1,0 +1,113 @@
+body{
+    background-color:white;
+}
+.header{
+    background-color:rgb(12, 12, 12) ;
+    color: white;
+    margin: 0;
+    padding: auto;;
+   display: flex;
+    
+}
+.container{
+   /*max-width: 1200PX;*/
+   width: 100%;
+    margin:0;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 0;
+   }
+.logo{
+    font-size:30px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.nav a {
+    text-decoration: none;
+    color: white;
+}
+.nav {
+    list-style: none;
+    display: flex;
+    padding: 5px;
+     margin-left: 200px;
+     font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav li {
+    margin:0 20px;
+    position: relative;
+}
+h1{
+    font-weight: bold;
+    color: #8e1f22;
+    font-size: 30px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    }
+p{
+    font-size: 25px;
+    font-weight: 500;
+    text-align: justify;
+    font-family: Roboto;
+}
+.img{
+    background-color: chocolate;
+    margin: 0px;
+    padding-left: 600px;
+    height: 100px;
+    display:b;
+    padding:0px ;
+}
+    
+
+.container2{
+    margin-right: auto;
+    margin-left: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    position:relative;
+    text-item: center;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    padding: 20px;
+    color: white;
+}
+.lo{
+    width: 100px;
+    float:none;
+    margin-left: 300px;
+    padding: 0px;
+    text-align: center; */
+}
+ /* /* .image-container{
+    text-align: center; */
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
+p{
+    margin-left:  100px;;
+}
+.container3{
+    /* margin-right: auto;
+    margin-left: auto; */
+    margin-left: 20px;
+    margin-right: 20px;
+    position:relative;
+    text-item: center;
+    background-color: rgb(244, 255, 91);
+    margin-top: 1px;
+    margin-bottom: 2px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    border-radius: 60px;
+padding: 5px;
+}
